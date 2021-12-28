@@ -8,16 +8,16 @@
 
 ># Ao final deste curso você será capaz de compreender e aplicar os fundamentos de Lógica de Programação, quais sejam:
 
-### Introdução à programação;
-Expressões.
-Aritméticas.
-Comparativas.
-Lógicas.
-Estrutura sequencial.
-Entrada de dados (comando de leitura).
-Processamento de dados (comando de atribuição).
-Saída de dados (comando de escrita).
-Estrutura condicional (if/else).
-Estruturas repetitivas (while, for).
-Vetores.
-Matrizes.
+### Introdução à programação.
+### Expressões.
+### Aritméticas.
+### Comparativas.
+### Lógicas.
+### Estrutura sequencial.
+### Entrada de dados (comando de leitura).
+### Processamento de dados (comando de atribuição).
+### Saída de dados (comando de escrita).
+### Estrutura condicional (if/else).
+### Estruturas repetitivas (while, for).
+### Vetores.
+### Matrizes.
